@@ -1,2 +1,4 @@
-# Magic_Eight_Ball
-Replication of magic eight ball game in python
+# Magic 8-Ball
+
+The Magic 8-Ball is a popular toy developed in the 1950s for fortune-telling or advice seeking.
+An attempt to replicate it's functionality in python.
